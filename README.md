@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatlinh2405&label=Profile%20views&color=0e75b6&style=flat" alt="nhatlinh2405" /> </p>
 
-![Logo](https://manzdev.github.io/twitch-rickymorty/)
+![Logo](https://cdn.dribbble.com/users/721278/screenshots/15800691/media/591445dcef91c0d1925c9ab871cae4c0.mp4)
 
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
