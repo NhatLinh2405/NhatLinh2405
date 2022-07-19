@@ -3,12 +3,11 @@
 <h3 align="center">Target: Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatlinh2405&label=Profile%20views&color=0e75b6&style=flat" alt="nhatlinh2405" /> </p>
-<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>
+
+![Logo](https://manzdev.github.io/twitch-rickymorty/)
 
 
-<h2 align="center">🛠 Languages and Tools: 🛠</h2>
+<h2 align="center">🛠 Languages and Tools 🛠</h2>
 <br>
 <p  align="center">
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
