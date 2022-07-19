@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, My name is Nguyễn Nhật Linh - @meoconsp</h1>
 <h3 align="center">🎯 Target: Web Developer 🎯</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatlinh2405&label=Profile%20views&color=0e75b6&style=flat" alt="nhatlinh2405" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nhatlinh2405&label=Profile%20views&color=0e75b6&style=flat" alt="nhatlinh2405" /> </p>
 
-<p align="left"> <img src="https://media.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif?cid=790b76111eb620db24c003df31f680547e16ba04eb113521&rid=giphy.gif&ct=g" alt="nhatlinh2405" /> </p>
-
+<p align="center"> <img src="https://media.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif?cid=790b76111eb620db24c003df31f680547e16ba04eb113521&rid=giphy.gif&ct=g" alt="nhatlinh2405" /> </p>
 
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
@@ -45,5 +44,5 @@
 <h2 align="center">❤️ My Favorites Quote ❤️</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="images/favoriteQuote.jpg" alt="Nhật Linh" />
+  <img src="quote.svg" width="846" height="150" alt="nhatlinh-quote" />
 </a>
