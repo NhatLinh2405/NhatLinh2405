@@ -2,7 +2,12 @@
 <a href="#" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
+<h1 align="center">Hi 👋, My name is Nguyễn Nhật Linh - @meoconsp</h1>
+<h3 align="center">Target: Web Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatlinh2405&label=Profile%20views&color=0e75b6&style=flat" alt="nhatlinh2405" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhatlinh2405" alt="nhatlinh2405" /></a> </p>
 <h2 align="center">🛠 Languages and Tools: 🛠</h2>
 <br>
 <p  align="center">
@@ -42,13 +47,3 @@
 <a href="#" target="_blank">
   <img src="images/favoriteQuote.jpg" alt="Nhật Linh" />
 </a>
-
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhatlinh2405&show_icons=true&locale=en&layout=compact" alt="nhatlinh2405" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhatlinh2405&show_icons=true&locale=en" alt="nhatlinh2405" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhatlinh2405&" alt="nhatlinh2405" /></p>
-<br>
