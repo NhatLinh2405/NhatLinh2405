@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatlinh2405&label=Profile%20views&color=0e75b6&style=flat" alt="nhatlinh2405" /> </p>
 
-![Logo](https://media.giphy.com/media/mYwkGEd6jFsZ8IeO2m/giphy.gif)
+![Logo](https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy-downsized.gif)
 
 
 
