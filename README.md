@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatlinh2405&label=Profile%20views&color=0e75b6&style=flat" alt="nhatlinh2405" /> </p>
 
-<p align="center"> <img src="https://media.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif?cid=790b76111eb620db24c003df31f680547e16ba04eb113521&rid=giphy.gif&ct=g" width='1200' height='700' alt="nhatlinh2405" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif?cid=790b76111eb620db24c003df31f680547e16ba04eb113521&rid=giphy.gif&ct=g" width='1200' height='400' alt="nhatlinh2405" /> </p>
 
 <!-- ![Logo](https://media.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif?cid=790b76111eb620db24c003df31f680547e16ba04eb113521&rid=giphy.gif&ct=g) -->
 
