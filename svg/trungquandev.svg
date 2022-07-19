@@ -23,7 +23,7 @@
 					margin: 0;
 					width: 100%;
 					height: 750px;
-          background-image: url('https://media.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif?cid=790b76111eb620db24c003df31f680547e16ba04eb113521&rid=giphy.gif&ct=g')
+          background-image: url(https://media.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif)
           background-position: center;
           animation: stars 30s linear infinite alternate;
 					border-radius: 10px;
