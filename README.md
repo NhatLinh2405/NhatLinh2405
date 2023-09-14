@@ -7,13 +7,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
--   🔭 I'm currently learning everything from the world
+-   🔭 I’m currently working on **Vexa Web App**
 
--   🌱 I’m currently learning **FullStack Developer**
+-   🌱 I’m currently learning **DevOps**
 
--   📫 How to reach me **nhatlinh240501@gmail.com**
+-   💬 Ask me about **Android , MEARN**
 
--   🎮 I play League of Legends on the Vietnam server.
+-   📫 How to reach me **rishavchanda0@gmail.com**
+
+-   ⚡ Fun fact **I am Funny**
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
 <br>
