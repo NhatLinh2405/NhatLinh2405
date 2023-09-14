@@ -14,7 +14,7 @@
 
 -   🌱 I’m currently learning **FullStack Developer**
 
--   📫 How to reach me **[vetrivel.galaxy@gmail.com](mailto:vetrivel.galaxy@gmail.com)**
+-   📫 How to reach me **[nhatlinh240501@gmail.com](mailto:nhatlinh240501@gmail.com)**
 
 -   🎮 I play League of Legends on the Vietnam server.
 
@@ -64,5 +64,5 @@
 <h2 align="center">❤️ My Favorites Quote ❤️</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="quote.svg" width={100%} height="150" alt="nhatlinh-quote" />
+  <img src="quote.svg" width="100%" height="150" alt="nhatlinh-quote" />
 </a>
