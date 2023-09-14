@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatlinh2405&label=Profile%20views&color=0e75b6&style=flat" alt="nhatlinh2405" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatlinh2405&label=Profile%20views&color=0e75b6&style=flat" alt="nhatlinh2405" /> </p>
+-   🌍  I'm based in VietNam
+
+-   🖥️ See my portfolio at **[Nhat Linh]("")**
 
 -   🔭 I'm currently learning everything from the world
 
 -   🌱 I’m currently learning **FullStack Developer**
 
--   📫 How to reach me **nhatlinh240501@gmail.com**
-
--   🎮 I play League of Legends on the Vietnam server.
+-   📫 How to reach me **[vetrivel.galaxy@gmail.com](mailto:vetrivel.galaxy@gmail.com)**
 
 -   🎮 I play League of Legends on the Vietnam server.
 
@@ -64,5 +64,5 @@
 <h2 align="center">❤️ My Favorites Quote ❤️</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="quote.svg" width="846" height="150" alt="nhatlinh-quote" />
+  <img src="quote.svg" width={100%} height="150" alt="nhatlinh-quote" />
 </a>
