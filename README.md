@@ -3,14 +3,15 @@
 <h1 align="center">Hi 👋, My name is Nguyễn Nhật Linh - @meoconsp</h1>
 <h3 align="center">🎯 Target: FullStack Developer 🎯</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nhatlinh2405&label=Profile%20views&color=0e75b6&style=flat" alt="nhatlinh2405" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I'm currently learning everything from the world
+
+-   🔭 I'm currently learning everything from the world
 
 -   🌱 I’m currently learning **FullStack Developer**
 
 -   📫 How to reach me **nhatlinh240501@gmail.com**
-
--   🎮 I play League of Legends on the Vietnam server.
 
 -   🎮 I play League of Legends on the Vietnam server.
 
