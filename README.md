@@ -16,7 +16,9 @@
 
 -   🎮 I play League of Legends on the Vietnam server.
 
+-   🎮 I play League of Legends on the Vietnam server.
 
+-   🎮 I play League of Legends on the Vietnam server.
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
 <br>
