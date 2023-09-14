@@ -1,19 +1,17 @@
-[![MasterHead](https://res.cloudinary.com/azurestore/image/upload/v1694627644/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8_yjqzsp.gif)]
+![MasterHead](https://res.cloudinary.com/azurestore/image/upload/v1694627644/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8_yjqzsp.gif)
 <h1 align="center">Hi 👋, My name is Nguyễn Nhật Linh - @meoconsp</h1>
 <h3 align="center">🎯 Target: FullStack Developer 🎯</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nhatlinh2405&label=Profile%20views&color=0e75b6&style=flat" alt="nhatlinh2405" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I'm currently learning everything from the world
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **FullStack Developer**
 
-- 💬 Ask me about **Android , MEARN**
-
-- 📫 How to reach me **rishavchanda0@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+- 📫 How to reach me **nhatlinh240501@gmail.com**
+  
+- 🎮 I play League of Legends on the Vietnam server.
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
 <br>
