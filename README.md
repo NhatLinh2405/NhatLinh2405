@@ -8,7 +8,7 @@
 
 -   🌍  I'm based in VietNam
 
--   🖥️ See my portfolio at **[Nhat Linh]("")**
+-   🖥️ See my portfolio at **[Nhat Linh](https://linh-info.vercel.app)**
 
 -   🔭 I'm currently learning everything from the world
 
