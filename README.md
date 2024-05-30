@@ -66,7 +66,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NhatLinh2405&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api?username=nhatlinh2405&show_icons=true&count_private=true&&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatlinh2405)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatlinh2405&layout=compact)
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
