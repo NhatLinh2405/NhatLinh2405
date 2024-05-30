@@ -16,6 +16,7 @@
 -   🌱 I’m currently learning **FullStack Developer**
 
 -   📫 How to reach me **[nhatlinh240501@gmail.com](mailto:nhatlinh240501@gmail.com)**
+    <br><br>
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
 <br>
@@ -64,8 +65,8 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NhatLinh2405&hide_border=false)
 
-![[<img height="175px"/>]](https://github-readme-stats.vercel.app/api?username=NhatLinh2405&hide_border=false&count_private=true)
-![<img height="175px"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=NhatLinh2405&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[<img src="https://github-readme-stats.vercel.app/api?username==NhatLinh2405&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username==NhatLinh2405)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username==NhatLinh2405&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username==NhatLinh2405)
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
@@ -81,6 +82,4 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
