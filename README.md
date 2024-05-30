@@ -1,12 +1,14 @@
 ![MasterHead](https://res.cloudinary.com/azurestore/image/upload/v1694627644/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8_yjqzsp.gif)
 
-<h1 align="center">Hi 👋, My name is Nguyễn Nhật Linh - @meoconsp</h1>
+<h1 align="center">Hi 👋, My name is Nguyễn Nhật Linh</h1>
 <h3 align="center">🎯 Target: FullStack Developer 🎯</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatlinh2405&label=Profile%20views&color=0e75b6&style=flat" alt="nhatlinh2405" /> </p>
 
--   🌍  I'm based in VietNam
+-   🌍 I'm based in VietNam
+
+-   🗯️ See my facebook **[Nhat Linh](https://www.facebook.com/lays.linh.96)**
 
 -   🖥️ See my portfolio at **[Nhat Linh](https://linh-info.vercel.app)**
 
@@ -15,8 +17,6 @@
 -   🌱 I’m currently learning **FullStack Developer**
 
 -   📫 How to reach me **[nhatlinh240501@gmail.com](mailto:nhatlinh240501@gmail.com)**
-
--   🎮 I play League of Legends on the Vietnam server.
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
 <br>
@@ -60,6 +60,17 @@
 </div>
 
 <br>
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=NhatLinh2405&theme=dark&hide_border=false&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NhatLinh2405&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NhatLinh2405&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/wakatime?username=NhatLinh2405&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&count_private=true)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=NhatLinh2405&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h2 align="center">❤️ My Favorites Quote ❤️</h2>
 <br>
