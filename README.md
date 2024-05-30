@@ -63,11 +63,9 @@
 
 <h2 align="center">📊 GitHub Stats: 📊</h2>
 
-<div  style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 ![](https://github-readme-stats.vercel.app/api?username=NhatLinh2405&theme=dark&hide_border=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NhatLinh2405&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NhatLinh2405&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
