@@ -8,7 +8,7 @@
 
 -   🌍 I'm based in VietNam
 
--   🗯️ See my facebook **[Nhat Linh](https://www.facebook.com/lays.linh.96)**
+-   🗯️ My facebook **[Nhat Linh](https://www.facebook.com/lays.linh.96)**
 
 -   🖥️ See my portfolio at **[Nhat Linh](https://linh-info.vercel.app)**
 
@@ -61,21 +61,15 @@
 
 <br>
 
-# 📊 GitHub Stats:
+<h2 align="center">📊 GitHub Stats: 📊</h2>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=NhatLinh2405&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats"/>
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NhatLinh2405&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatLinh2405&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-  </div>
+<div  style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+![](https://github-readme-stats.vercel.app/api?username=NhatLinh2405&theme=dark&hide_border=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NhatLinh2405&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NhatLinh2405&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=NhatLinh2405&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
