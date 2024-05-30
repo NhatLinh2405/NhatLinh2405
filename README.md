@@ -1,14 +1,13 @@
 ![MasterHead](https://res.cloudinary.com/azurestore/image/upload/v1694627644/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8_yjqzsp.gif)
 
 <h1 align="center">Hi 👋, My name is Nguyễn Nhật Linh</h1>
+
 <h3 align="center">🎯 Target: FullStack Developer 🎯</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatlinh2405&label=Profile%20views&color=0e75b6&style=flat" alt="nhatlinh2405" /> </p>
 
 -   🌍 I'm based in VietNam
-
--   🗯️ My facebook **[Nhat Linh](https://www.facebook.com/lays.linh.96)**
 
 -   🖥️ See my portfolio at **[Nhat Linh](https://linh-info.vercel.app)**
 
@@ -63,10 +62,10 @@
 
 <h2 align="center">📊 GitHub Stats: 📊</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=NhatLinh2405&hide_border=false&count_private=true)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NhatLinh2405&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NhatLinh2405&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![[<img height="175px"/>]](https://github-readme-stats.vercel.app/api?username=NhatLinh2405&hide_border=false&count_private=true)
+![<img height="175px"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=NhatLinh2405&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
@@ -77,3 +76,11 @@
 <a href="#" target="_blank">
   <img src="quote.svg" width="100%" height="150" alt="nhatlinh-quote" />
 </a>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
