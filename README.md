@@ -64,7 +64,7 @@
 <h2 align="center">📊 GitHub Stats: 📊</h2>
 
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=NhatLinh2405&hide_border=false" height="175"  width="49.5%">](https://github-readme-streak-stats.herokuapp.com/?user=NhatLinh2405&hide_border=false)
-[<img src="https://github-readme-stats.vercel.app/api?username=nhatlinh2405&show_icons=true&count_private=true&&include_all_commits=true" height="175"  width="49.5%">](https://github-readme-stats.vercel.app/api?username=nhatlinh2405)
+[<img src="https://github-readme-stats.vercel.app/api?username=nhatlinh2405&show_icons=true&count_private=true&&include_all_commits=true" height="170"  width="49.5%">](https://github-readme-stats.vercel.app/api?username=nhatlinh2405)
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatlinh2405&layout=compact&" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatlinh2405)
 
