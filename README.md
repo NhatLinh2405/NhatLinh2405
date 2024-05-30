@@ -65,8 +65,8 @@
 
 ![<div align="center"></div>](https://github-readme-streak-stats.herokuapp.com/?user=NhatLinh2405&hide_border=false)
 
-[<img src="https://github-readme-stats.vercel.app/api?username=nhatlinh2405&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=nhatlinh2405)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatlinh2405&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatlinh2405)
+[<img src="https://github-readme-stats.vercel.app/api?username=nhatlinh2405&show_icons=true&count_private=true&&include_all_commits=true" height="175"> width="50%"](https://github-readme-stats.vercel.app/api?username=nhatlinh2405)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatlinh2405&layout=compact&" height="175" width="50%">](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatlinh2405)
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
