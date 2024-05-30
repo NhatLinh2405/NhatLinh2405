@@ -63,10 +63,17 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=NhatLinh2405&theme=dark&hide_border=false&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NhatLinh2405&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NhatLinh2405&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/wakatime?username=NhatLinh2405&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10&count_private=true)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=NhatLinh2405&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats"/>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NhatLinh2405&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatLinh2405&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  </div>
+</div>
 
 ## 🏆 GitHub Trophies
 
